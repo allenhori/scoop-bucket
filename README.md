@@ -1,10 +1,10 @@
-# allenhori/scoop-bucket
+# get-dre/scoop-bucket
 
-A Scoop bucket for [DRE](https://github.com/allenhori/dre), the Declarative Reporting Engine.
+A Scoop bucket for [DRE](https://github.com/get-dre/dre), the Declarative Reporting Engine.
 
 ```powershell
-scoop bucket add allenhori https://github.com/allenhori/scoop-bucket
-scoop install allenhori/dre
+scoop bucket add get-dre https://github.com/get-dre/scoop-bucket
+scoop install get-dre/dre
 ```
 
 `bucket/dre.json` is written by DRE's release workflow for each release; don't edit it by hand.
